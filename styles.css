@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.outer-box {
+  border: 2px solid black;
+  width: 800px;
+  margin: 20px auto;
+  padding: 20px 60px;
+}
+
+.divider{
+  border-bottom: 2px solid black;
+  margin: 40px -1px;
+  width :680px;
+}
+
+h3{
+  color: blue;
+}
+
+.green{
+  color : green;
+}
